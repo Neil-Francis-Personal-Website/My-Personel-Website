@@ -1,0 +1,45 @@
+html {
+  font-family: sans-serif;
+  font-size: 16px;
+  background: bisque;
+}
+
+header {
+  font-size: 2rem;
+  position: left;
+  left: 0;
+  right: 0;
+  padding: 0 0 8 0
+}
+
+main {
+  min-height: 100vh;
+  padding: 64px 24px 96px;
+  box-shadow: 0 0 12px -2px black;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 16px;
+  background-image: DenverMountains.jpg;
+}
+
+.name {
+  float: left;
+}
+
+.links {
+  float: right;
+}
+
+a {
+  color: rgb(0, 17, 255);
+}
+
+img {
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+p {
+  display: inline-block;
+}
