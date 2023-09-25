@@ -1,5 +1,5 @@
 # My-Personel-Website
 
-Attentative
-Broad range of IT skills
-Work in large and small teams, as well as independently
+Basic website. Had issues trying to get the 'footer' to work. Reviewed supplied example student website. Mixed results. Submitted completed assignment. I would appreciate some feedback on how to get the footer to work.
+Thanks.
+
